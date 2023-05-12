@@ -11,17 +11,16 @@
 ![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=leandrocantiero&theme=gotham)
 
 <div align="center">  
-<a href="" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"</a>
+<a href="https://www.linkedin.com/in/leandro-campagnolo-288bb5179/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"</a>
 </div>
   
 
 ### Main skills:
-[![My Skills](https://skillicons.dev/icons?i=php,typescript,azure,nodejs,vue,javascript,c,cpp,cs,java&perline=10)](https://skillicons.dev)
-<!-- ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)&nbsp;
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?logo=typeScript&style=flat&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=azure,nodejs,vue,kotlin,javascript,cs,java&perline=10)](https://skillicons.dev)
+![Kotlin](https://img.shields.io/badge/Kotlin-3178C6.svg?logo=kotlin&style=flat&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)&nbsp; 
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)&nbsp;
+![C#](https://img.shields.io/badge/Cs%2B%2B-00599C?style=for-the-badge&logo=cs%2B%2B&logoColor=white)&nbsp;
 ![Node.js](https://img.shields.io/badge/Node.js-6DA55F.svg?logo=node.js&style=flat&logoColor=white)&nbsp;
 ![Vue.Js](https://img.shields.io/badge/Vue.js-%2335495e.svg?logo=vuedotjs&style=flat)&nbsp; -->
 
